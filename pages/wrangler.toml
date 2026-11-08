@@ -1,8 +1,8 @@
-name = "temp-email-pages"
+name = "a1004e-cloudflare-temp-email-cloudfree-fun"
 pages_build_output_dir = "../frontend/dist"
 compatibility_date = "2024-05-13"
 
 [[services]]
 binding = "BACKEND"
-service = "cloudflare_temp_email"
+service = "a1004e_cloudflare_temp_email_cloudfree_fun"
 environment = "production"
